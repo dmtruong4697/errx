@@ -26,7 +26,7 @@ func GetUser(c *gin.Context) {
 		"success": true,
 		"data": gin.H{
 			"id":   1,
-			"name": "Minh",
+			"name": "John Cena",
 		},
 	})
 }
